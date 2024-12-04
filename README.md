@@ -35,7 +35,7 @@ I'm a passionate **Full-Stack Web Developer** with expertise in building dynamic
 
 ## 📫 How to Reach Me
 - Email: [lakshandananjana253@gmail.com](#)
-- GitHub: [github.com/lakshan-dananjana](#)
+- GitHub: [github.com/Lakshan-Dananjana](#)
 
 ---
 
