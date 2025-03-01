@@ -20,7 +20,7 @@ I'm a passionate **Full-Stack Web Developer** with expertise in building dynamic
 
 ### Tools & Platforms
 - Version Control: **Git/GitHub**
-- Development Tools: **VS Code**, **Postman**
+- Development Tools: **VS Code**
 - Deployment: **cPanel**, **Heroku**
 
 ---
