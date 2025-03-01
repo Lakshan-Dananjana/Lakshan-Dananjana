@@ -28,7 +28,7 @@ I'm a passionate **Full-Stack Web Developer** with expertise in building dynamic
 ---
 
 ## 💡 What I'm Currently Learning
-- Exploring **Laravel** to enhance my full-stack skills.
+- Exploring **Laravel** to enhance my Back-end skills.
 - Diving deeper into **RESTful APIs** and **microservices**.
 
 ---
